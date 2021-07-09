@@ -1,0 +1,12 @@
+{
+    "name"         : "hxlovr",
+    "url"          : "https://github.com/Orange-hx/hxlovr",
+    "license"      : "Public",
+    "tags"         : [ "lua", "game", "love2d", "lovr", "externs" ],
+    "description"  : "Haxe externs for LÖVR!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
